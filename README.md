@@ -1,4 +1,4 @@
-# Display electricity prices on and e-ink screen
+# Display electricity prices on an e-ink screen
 This is my version of displaying the energy prices on an e-ink screen. It still needs some improvements (hours are not displayed correctly)...
 ## Hardware used
  - Wemos D1 Mini V4 - ESP8266 - CH340
